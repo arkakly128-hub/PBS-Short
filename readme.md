@@ -43,7 +43,8 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/PBS-Short.git
+git clone https://github.com/arkakly128-hub/PBS-Short.git
 cd PBS-Short
 pip install -r requirements.txt
 python benchmarks.py
+
